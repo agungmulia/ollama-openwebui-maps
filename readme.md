@@ -21,7 +21,7 @@ This project runs a local LLM via [Ollama](https://ollama.com) and [Open WebUI](
 ### 1. 🔧 Clone the Repository
 
 ```bash
-git clone https://github.com/agungmulia/heypico-test
+git clone https://github.com/agungmulia/ollama-openwebui-maps
 ```
 ---
 ### 2. 🔐 Setup Environment Variables
